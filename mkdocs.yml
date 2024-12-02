@@ -1,1 +1,5 @@
 site_name: Python User Group Ho
+theme:
+  name: readthedocs
+  highlightjs: true
+  locale: en
