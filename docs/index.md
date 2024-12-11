@@ -163,13 +163,12 @@ Project
 
         Public speaking tips for tech
         How to contribute to open source (Python/Django focus)
-        Career development advice from industry experts (e.g., DSF, Black Python Dev, Djangonaut Space)
+        Career development advice from industry experts
 
 **Activities**
 
         Participate in mock speaking sessions
         Guided contributions to open-source projects
-        Panel discussions with experienced mentors
 
 ## Week 6: Advanced Projects and Wrap-Up
 
@@ -183,7 +182,6 @@ Project
 
 - Full-stack web application with API integration
 - Python automation tools for real-world problems
-- AI project: Predictive analytics using machine learning
 
 **Final Presentations**
 
@@ -196,4 +194,3 @@ Project
 
 - Participants will work on individual or group projects each week.
 - Resources and cheat sheets are provided for guided learning.
-- Mentorship opportunities available for advanced topics.
